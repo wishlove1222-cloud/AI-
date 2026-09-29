@@ -1,0 +1,7 @@
+# [theme]에 바로 색을 지정하면 라이트 테마로 고정되므로,
+# 라이트/다크 각각에 지정해 시스템 설정을 따르게 한다.
+[theme.light]
+primaryColor = "#4F46E5"
+
+[theme.dark]
+primaryColor = "#818CF8"
